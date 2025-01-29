@@ -1,0 +1,21 @@
+.footer-container{
+    background-color: #263745;
+
+}
+
+
+.footer-items-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start; 
+    padding: 80px 5px;
+
+}
+.footer-text{
+    text-align: center;
+    color: gainsboro;
+    font-size: 24px;
+    border-top: 1px solid gainsboro;
+    padding: 25px;
+}

@@ -1,0 +1,19 @@
+.support-container{
+    display: flex;
+    flex-direction: column;
+   gap: 30px;
+   align-items: left;
+   justify-content: center;
+}
+.support-text{
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+.support-box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.support-title{
+    color: gainsboro;
+}

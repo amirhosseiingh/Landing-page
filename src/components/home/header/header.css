@@ -10,6 +10,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 30px;
 }
 .header-caption{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -20,6 +21,7 @@
 .text-box{
     display: flex;
     flex-direction: column;
+    margin-top: 10px;
 }
 .header-first-text{
     color: wheat;

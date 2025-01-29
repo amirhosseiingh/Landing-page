@@ -1,0 +1,21 @@
+.company-container{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    align-items: left;
+    justify-content: center;
+}
+.company-text{
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+.company-box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0;
+}
+.company-title{
+    color: gainsboro;
+    margin: 0;
+}
