@@ -1,0 +1,16 @@
+.box-container{
+    width: 274px;
+    height: 206px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img-box{
+    width: 150px;
+    height: 150px;
+}
+.text-box{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

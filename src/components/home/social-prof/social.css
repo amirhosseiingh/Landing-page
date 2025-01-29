@@ -1,0 +1,14 @@
+.social-text{
+    font-size: 50px;
+    text-align: center;
+    margin: 80px 180px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.social-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 80px;
+}
