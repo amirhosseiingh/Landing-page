@@ -2,7 +2,7 @@ import React from 'react';
 import './footer.css';
 import Services from '../services/services';
 import Company from '../company/company';
-import Support from '../../support/support';
+import Support from '../support/support';
 import Address from '../address/address';
 export default function Footer() {
   return (
